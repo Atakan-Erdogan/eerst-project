@@ -1,0 +1,32 @@
+
+header {
+   background: lightblue; 
+   margin: 0;
+}
+header nav ul li  {
+    display: inline-block;
+    color: white;
+    background: darkblue;
+    padding: 5px;
+    margin: 0;
+}
+
+header nav ul li a {
+    color: white;
+    
+
+}
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    padding: 5%;
+    background-image: linear-gradient
+    (rgba(0,8,51,0,9),rgba(o,8,51,0,9)), url(https://www.google.com/search?q=background+image&rlz=1C1CHBD_nlNL1014NL1014&source=lnms&tbm=isch&sa=X&ved=2ahUKEwir-ayXm6v7AhUWgP0HHePpDcYQ_AUoAXoECAIQAw&biw=1536&bih=746&dpr=1.25#imgrc=FIs_-Uj7dvwUdM);
+    background-position: center;
+    background-size: cover;
+   
+    
+}
+
+
